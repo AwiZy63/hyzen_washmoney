@@ -3,6 +3,8 @@ games { 'gta5' }
 
 author 'Hyzen Team'
 
+description 'Hyzen Blanchisseur'
+
 shared_scripts {
     'shared/config.lua',
     'locale/*.lua',
